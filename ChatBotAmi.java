@@ -1,14 +1,18 @@
-import java.util.Scanner;
-
 /**
- *This is a project
+ * @author Ami Gianchandani
+ * @date October 2, 2016
+ * This is a Chat Bot that interacts with the user. The series of questions does not end until the user says "bye"
  *
  */
+
+import java.util.Scanner;
+
  public class ChatBotAmi
  {
- 	/** This is the main method that java interpreter calls
- 	  * @param args This is a command line argument
- 	  */
+ 	/** 
+ 	* This is the main method that java interpreter calls
+ 	* @param args This is a command line argument
+ 	*/
  	public static void main(String[] args)
  	{
  		//create a new Scanner object
